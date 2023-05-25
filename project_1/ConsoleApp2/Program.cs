@@ -1,38 +1,38 @@
 ﻿////// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("please enter the first number");
-double n1 = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine("please enter the first number");
+//double n1 = Convert.ToDouble(Console.ReadLine());
 
-Console.WriteLine("please enter the second number");
-double n2 = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine("please enter the second number");
+//double n2 = Convert.ToDouble(Console.ReadLine());
 
-Console.WriteLine("enter the third number:");
-double n3 = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine("enter the third number:");
+//double n3 = Convert.ToDouble(Console.ReadLine());
 
-//double add = n1 + n2, sub = n1 - n2, mul = n1 * n2, div = n1 / n2;
-//Console.WriteLine("Result is " + add);
-////Console.WriteLine(n1 + " + " + n2 + " = " + add);
-//Console.WriteLine("{0} + {1} = {2}", n1, n2, add);
+//////double add = n1 + n2,sub=n1-n2,mul=n1*n2,div=n1/n2; 
+//////Console.WriteLine("Result is "+add);
+//////Console.WriteLine(n1 + " + " + n2 + " = " + add);
+//////Console.WriteLine("{0} + {1} = {2}", n1, n2, add);
 
 
-//Console.WriteLine("Enter the operator sign");
-//string operatorsign = Console.ReadLine();
-//if (operatorsign == "+")
-//{
-//    Console.WriteLine("{0} + {1} = {2}", n1, n2, add);
-//}
-//else if (operatorsign == "-")
-//{
-//    Console.WriteLine("{0} - {1} = {2}", n1, n2, sub);
-//}
-//else if (operatorsign == "*")
-//{
-//    Console.WriteLine("{0} * {1} = {2}", n1, n2, mul);
-//}
-//else if (operatorsign == "/")
-//{
-//    Console.WriteLine("{0} / {1} = {2}", n1, n2, div);
-//}
+//////Console.WriteLine("Enter the operator sign");
+//////string operatorsign= Console.ReadLine();
+////// if (operatorsign == "+")
+//////{
+//////    Console.WriteLine(add);
+//////}
+//////else if(operatorsign == "-")
+//////{
+//////    Console.WriteLine(sub);
+//////}
+//////else if(operatorsign == "*")
+//////{
+//////    Console.WriteLine(mul);
+//////}
+//////else if (operatorsign == "/")
+//////{
+//////    Console.WriteLine(div);
+//////}
 
 ////if (n2 < n3)
 ////{
@@ -43,12 +43,14 @@ double n3 = Convert.ToDouble(Console.ReadLine());
 ////{
 ////    if (n3 < n1)
 ////        Console.WriteLine("n1");
+
 ////}
 
 ////if (n1 < n2)
 ////{
 ////    if (n3 < n2)
 ////        Console.WriteLine("n2");
+
 ////}
 
 //if (n1 + n2 < n1 + n3)
@@ -135,27 +137,27 @@ double n3 = Convert.ToDouble(Console.ReadLine());
 //    Console.WriteLine("you will not get admitted");
 //}
 
-//while (true)
-//{
-//    Console.WriteLine("input a number");
-//    int n1 = Convert.ToInt32(Console.ReadLine());
-//    if (n1 == 0)
-//    {
-//        Console.WriteLine("n1 is zero");
-//    }
-//    else if(n1 < 0)
-//    {
-//        Console.WriteLine("n1 is negative");
-//    }
-//    else if (n1 > 0)
-//    {
-//        Console.WriteLine("n1 is positive");
-//    }
-//    else
-//    {
-//        Console.WriteLine("n1 is not an integer");
-//    }
-//}
+while (true)
+{
+    Console.WriteLine("input a number");
+    int n1 = Convert.ToInt32(Console.ReadLine());
+    if (n1 == 0)
+    {
+        Console.WriteLine("n1 is zero");
+    }
+    else if(n1 < 0)
+    {
+        Console.WriteLine("n1 is negative");
+    }
+    else if (n1 > 0)
+    {
+        Console.WriteLine("n1 is positive");
+    }
+    else
+    {
+        Console.WriteLine("n1 is not an integer");
+    }
+}
 
 
 

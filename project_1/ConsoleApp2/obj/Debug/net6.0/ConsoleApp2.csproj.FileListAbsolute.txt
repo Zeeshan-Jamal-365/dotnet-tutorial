@@ -13,18 +13,3 @@ C:\Users\Acer\Desktop\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\refin
 C:\Users\Acer\Desktop\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
 C:\Users\Acer\Desktop\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
 C:\Users\Acer\Desktop\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
-E:\16th Semester\dotnet_projects\MasterDetails\project_1\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
