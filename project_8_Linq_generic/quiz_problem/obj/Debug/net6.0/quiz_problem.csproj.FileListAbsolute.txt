@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\bin\Debug\net6.0\quiz_problem.exe
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\bin\Debug\net6.0\quiz_problem.deps.json
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\bin\Debug\net6.0\quiz_problem.runtimeconfig.json
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\bin\Debug\net6.0\quiz_problem.dll
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\bin\Debug\net6.0\quiz_problem.pdb
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\obj\Debug\net6.0\quiz_problem.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\obj\Debug\net6.0\quiz_problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\obj\Debug\net6.0\quiz_problem.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\obj\Debug\net6.0\quiz_problem.AssemblyInfo.cs
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\obj\Debug\net6.0\quiz_problem.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\obj\Debug\net6.0\quiz_problem.dll
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\obj\Debug\net6.0\refint\quiz_problem.dll
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\obj\Debug\net6.0\quiz_problem.pdb
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\obj\Debug\net6.0\quiz_problem.genruntimeconfig.cache
+C:\Users\Hp\Desktop\project_8_sql_2\quiz_problem\obj\Debug\net6.0\ref\quiz_problem.dll
