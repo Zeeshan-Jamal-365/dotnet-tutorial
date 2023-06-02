@@ -1,0 +1,15 @@
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\bin\Debug\net6.0\project_7_linq_sql.exe
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\bin\Debug\net6.0\project_7_linq_sql.deps.json
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\bin\Debug\net6.0\project_7_linq_sql.runtimeconfig.json
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\bin\Debug\net6.0\project_7_linq_sql.dll
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\bin\Debug\net6.0\project_7_linq_sql.pdb
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\obj\Debug\net6.0\project_7_linq_sql.csproj.AssemblyReference.cache
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\obj\Debug\net6.0\project_7_linq_sql.GeneratedMSBuildEditorConfig.editorconfig
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\obj\Debug\net6.0\project_7_linq_sql.AssemblyInfoInputs.cache
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\obj\Debug\net6.0\project_7_linq_sql.AssemblyInfo.cs
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\obj\Debug\net6.0\project_7_linq_sql.csproj.CoreCompileInputs.cache
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\obj\Debug\net6.0\project_7_linq_sql.dll
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\obj\Debug\net6.0\refint\project_7_linq_sql.dll
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\obj\Debug\net6.0\project_7_linq_sql.pdb
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\obj\Debug\net6.0\project_7_linq_sql.genruntimeconfig.cache
+E:\16th Semester\dotnet_projects\project_7_linq_sql\project_7_linq_sql\project_7_linq_sql\obj\Debug\net6.0\ref\project_7_linq_sql.dll
